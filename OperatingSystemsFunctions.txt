@@ -1,0 +1,3 @@
+One of the functions of the Operating system is to administer security.
+The Operating System can set up a firewall to prevent access to programs and require the use of log-ins and a password to prevent unauthorized access to the system.
+An Operating System, like the MAC, may have built in virus scanning.
