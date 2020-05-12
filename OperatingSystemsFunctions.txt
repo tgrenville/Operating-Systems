@@ -5,3 +5,7 @@ An Operating System, like the MAC, may have built in virus scanning.
 Another function of the Operatin System is to manage the Memory.
 The Operating System controls which part of the memory will be used for a process or program.
 The Operating SYstem allocates RAM memory to run programs and when that program is complete that memory is used for other processes.
+
+The Operating System also provides file management and other device or media related tasks.
+The Operating System controls which process gets the file or device and also controls how long those actions occur.
+It organizes directories or files that are retrieved from a disk or devices.
