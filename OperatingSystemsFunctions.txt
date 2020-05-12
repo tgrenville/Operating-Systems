@@ -1,3 +1,7 @@
 One of the functions of the Operating system is to administer security.
 The Operating System can set up a firewall to prevent access to programs and require the use of log-ins and a password to prevent unauthorized access to the system.
 An Operating System, like the MAC, may have built in virus scanning.
+
+Another function of the Operatin System is to manage the Memory.
+The Operating System controls which part of the memory will be used for a process or program.
+The Operating SYstem allocates RAM memory to run programs and when that program is complete that memory is used for other processes.
